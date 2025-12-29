@@ -1,0 +1,1 @@
+Station BOURKE-AIRPORT-AWS: Range 24.45буC (Max: 42.98буC, Min: 18.53буC)
